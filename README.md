@@ -92,8 +92,8 @@ Ornek kullanim:
 ###
 <table style="width:100%">
   <tr>
-    <th>Project Demo</th>
     <th>Project Link</th>
+    <th>Project Demo</th>
     <th>Stack</th>
     <th>Project Preview </th>
   </tr>
