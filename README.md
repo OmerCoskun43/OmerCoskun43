@@ -125,6 +125,37 @@ Ornek kullanim:
     <td><p>REACT FIREBASE</p></td>
     <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
   </tr>
+
+  <tr>
+    <td><a href="https://github.com/OmerCoskun43/movie-app-with-firebase">MOVIE APP<a/></td>
+    <td><a href="https://movie-app-with-firebase.netlify.app/">Repo Link</a> </td>
+    <td><p>REACT TAILWIND FIREBASE</p></td>
+    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/OmerCoskun43/Cskn-Store?tab=readme-ov-file">E-COMMERCE APP<a/></td>
+    <td><a href="https://cskn-store-with-react.netlify.app/dashboard/products">Repo Link</a> </td>
+    <td><p>REACT TAILWIND </p></td>
+    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+          <tr>
+    <td><a href="https://github.com/OmerCoskun43/Shopping-Cart-APP?tab=readme-ov-file">SHOPPING CART APP<a/></td>
+    <td><a href="https://shopping-cart-app-with-react.netlify.app/">Repo Link</a> </td>
+    <td><p>REACT APP </p></td>
+    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+                <tr>
+    <td><a href="https://github.com/OmerCoskun43/e-ticaret-sitesi-ecommerce-site?tab=readme-ov-file">E-COMMERCE WEBSITE<a/></td>
+    <td><a href="https://e-ticaret-sitesi-e-commerce-site.netlify.app/">Repo Link</a> </td>
+    <td><p>REACT REDUX BOOTSTRAP APP </p></td>
+    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+  </tr>
+                  <tr>
+    <td><a href="https://github.com/OmerCoskun43/project-4-appoinment-app">APPOINTMENT APP FOR HOSPITALS<a/></td>
+    <td><a href="https://cskn-hospital.netlify.app/">Repo Link</a> </td>
+    <td><p>REACT  BOOTSTRAP APP </p></td>
+    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+  </tr>
+
+  
     
 
       
