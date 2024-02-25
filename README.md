@@ -92,32 +92,32 @@ Ornek kullanim:
 ###
 <table style="width:100%">
   <tr>
-    <th>Project Link</th>
+    <th>Repo Link</th>
     <th>Project Demo</th>
     <th>Stack</th>
     <th>Project Preview </th>
   </tr>
   <tr>
     <td><a href="https://github.com/OmerCoskun43/STOCK-APP-V2?tab=readme-ov-file">STOCK APP<a/></td>
-    <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Repo Link</a> </td>
+    <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
     <td><p>React JS</p></td>
     <td  width="50%"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/144324576/307624070-14775817-ae16-426d-8a3e-5847a6871064.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240225T214043Z&X-Amz-Expires=300&X-Amz-Signature=f95442a24a80ab13bd13065dacda0ef94dea1882d437d64a09627d8756598acb&X-Amz-SignedHeaders=host&actor_id=144324576&key_id=0&repo_id=751892659"/></p></td>
   </tr>
         <tr>
     <td><a href="https://github.com/OmerCoskun43/cskn-store-typescript-tailwind">STORE APP<a/></td>
-    <td><a href="https://cskn-store-typescript-tailwind.netlify.app/">Repo Link</a> </td>
+    <td><a href="https://cskn-store-typescript-tailwind.netlify.app/">Demo Link</a> </td>
     <td><p>TypeScript Tailwind</p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/cskn-store-typescript-tailwind/assets/144324576/405e966c-008b-4acf-a37e-e8d75dac6fa8"/></p></td>
   </tr>
  <tr>
     <td><a href="https://github.com/OmerCoskun43/BlogApp-Redux-Mui-React">BLOG APP<a/></td>
-    <td><a href="https://blogapp-redux-mui-react.netlify.app/">Repo Link</a> </td>
+    <td><a href="https://blogapp-redux-mui-react.netlify.app/">Demo Link</a> </td>
     <td><p>REACT REDUX TOOLkit</p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/BlogApp-Redux-Mui-React/assets/144324576/98c8b509-eaaf-4901-a9ae-e5c5051dd90a"/></p></td>
   </tr>
    <tr>
     <td><a href="https://github.com/OmerCoskun43/recipe-app-with-firebase-react">RECIPE APP<a/></td>
-    <td><a href="https://recipe-app-with-firebase-and-react.netlify.app/">Repo Link</a> </td>
+    <td><a href="https://recipe-app-with-firebase-and-react.netlify.app/">Demo Link</a> </td>
     <td><p>REACT FIREBASE</p></td>
     <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
   </tr>
@@ -130,23 +130,23 @@ Ornek kullanim:
   </tr>
     <tr>
     <td><a href="https://github.com/OmerCoskun43/Cskn-Store?tab=readme-ov-file">E-COMMERCE APP<a/></td>
-    <td><a href="https://cskn-store-with-react.netlify.app/dashboard/products">Repo Link</a> </td>
+    <td><a href="https://cskn-store-with-react.netlify.app/dashboard/products">Demo Link</a> </td>
     <td><p>REACT TAILWIND </p></td>
     <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
           <tr>
     <td><a href="https://github.com/OmerCoskun43/Shopping-Cart-APP?tab=readme-ov-file">SHOPPING CART APP<a/></td>
-    <td><a href="https://shopping-cart-app-with-react.netlify.app/">Repo Link</a> </td>
+    <td><a href="https://shopping-cart-app-with-react.netlify.app/">Demo Link</a> </td>
     <td><p>REACT APP </p></td>
     <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
                 <tr>
     <td><a href="https://github.com/OmerCoskun43/e-ticaret-sitesi-ecommerce-site?tab=readme-ov-file">E-COMMERCE WEBSITE<a/></td>
-    <td><a href="https://e-ticaret-sitesi-e-commerce-site.netlify.app/">Repo Link</a> </td>
+    <td><a href="https://e-ticaret-sitesi-e-commerce-site.netlify.app/">Demo Link</a> </td>
     <td><p>REACT REDUX BOOTSTRAP APP </p></td>
     <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
   </tr>
                   <tr>
     <td><a href="https://github.com/OmerCoskun43/project-4-appoinment-app">APPOINTMENT APP FOR HOSPITALS<a/></td>
-    <td><a href="https://cskn-hospital.netlify.app/">Repo Link</a> </td>
+    <td><a href="https://cskn-hospital.netlify.app/">Demo Link</a> </td>
     <td><p>REACT  BOOTSTRAP APP </p></td>
     <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
   </tr>
