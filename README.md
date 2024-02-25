@@ -114,12 +114,7 @@ Ornek kullanim:
     <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
   </tr>
 
-      <tr>
-    <td><a href="https://github.com/OmerCoskun43/cskn-store-typescript-tailwind">STOCK APP<a/></td>
-    <td><a href="https://cskn-store-typescript-tailwind.netlify.app/">Repo Link</a> </td>
-    <td><p>TypeScript Tailwind</p></td>
-    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
-  </tr>
+    
 
       
 </table>
