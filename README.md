@@ -83,7 +83,7 @@ Syntax: [![LinkedIn](linkedin-shield image linki )](linkedin-url link)
 Ornek kullanim:
 
 [![Linkedin: VPA] (https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/OmerCoskun43/)
+(https://www.linkedin.com/in/%C3%B6mer-co%C5%9Fkun-0233b529b/)
 
 
 </br>
