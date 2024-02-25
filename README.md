@@ -119,7 +119,7 @@ Ornek kullanim:
     <td><a href="https://github.com/OmerCoskun43/recipe-app-with-firebase-react">RECIPE APP<a/></td>
     <td><a href="https://recipe-app-with-firebase-and-react.netlify.app/">Demo Link</a> </td>
     <td><p>REACT FIREBASE</p></td>
-    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/recipe-app-with-firebase-react/assets/144324576/8008c18a-564a-4f5c-b952-0e93e210477b"/></p></td>
   </tr>
 
   <tr>
