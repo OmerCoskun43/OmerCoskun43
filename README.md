@@ -113,7 +113,7 @@ Ornek kullanim:
     <td><a href="https://github.com/OmerCoskun43/BlogApp-Redux-Mui-React">BLOG APP<a/></td>
     <td><a href="https://blogapp-redux-mui-react.netlify.app/">Repo Link</a> </td>
     <td><p>REACT REDUX TOOLkit</p></td>
-    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/BlogApp-Redux-Mui-React/assets/144324576/98c8b509-eaaf-4901-a9ae-e5c5051dd90a"/></p></td>
   </tr>
    <tr>
     <td><a href="https://github.com/OmerCoskun43/recipe-app-with-firebase-react">RECIPE APP<a/></td>
