@@ -132,7 +132,7 @@ Ornek kullanim:
     <td><a href="https://github.com/OmerCoskun43/Cskn-Store?tab=readme-ov-file">E-COMMERCE APP<a/></td>
     <td><a href="https://cskn-store-with-react.netlify.app/">Demo Link</a> </td>
     <td><p>REACT TAILWIND </p></td>
-    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/Cskn-Store/assets/144324576/d8c4afb6-4cb6-4224-85a1-8ded960616e5"/></p></td>
           <tr>
     <td><a href="https://github.com/OmerCoskun43/Shopping-Cart-APP?tab=readme-ov-file">SHOPPING CART APP<a/></td>
     <td><a href="https://shopping-cart-app-with-react.netlify.app/">Demo Link</a> </td>
