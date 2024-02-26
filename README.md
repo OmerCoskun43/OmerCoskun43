@@ -148,7 +148,7 @@ Ornek kullanim:
     <td><a href="https://github.com/OmerCoskun43/project-4-appoinment-app">APPOINTMENT APP FOR HOSPITALS<a/></td>
     <td><a href="https://cskn-hospital.netlify.app/">Demo Link</a> </td>
     <td><p>REACT  BOOTSTRAP APP </p></td>
-    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/project-4-appoinment-app/assets/144324576/5c72749f-969d-46c0-ad23-e05128ccb17e"/></p></td>
   </tr>
 
   
