@@ -66,17 +66,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
-Format: [LinkedIn Badge] veya [Linkedin: VPA] 
-
-Syntax: [![LinkedIn](linkedin-shield image linki )](linkedin-url link)
-
-Ornek kullanim:
 
 [![Linkedin: VPA] (https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
 (https://www.linkedin.com/in/%C3%B6mer-co%C5%9Fkun-0233b529b/)
