@@ -137,7 +137,7 @@ Ornek kullanim:
     <td><a href="https://github.com/OmerCoskun43/Shopping-Cart-APP?tab=readme-ov-file">SHOPPING CART APP<a/></td>
     <td><a href="https://shopping-cart-app-with-react.netlify.app/">Demo Link</a> </td>
     <td><p>REACT APP </p></td>
-    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/Shopping-Cart-APP/assets/144324576/c06db197-636a-4075-b79e-676ab86d575a"/></p></td>
                 <tr>
     <td><a href="https://github.com/OmerCoskun43/e-ticaret-sitesi-ecommerce-site?tab=readme-ov-file">E-COMMERCE WEBSITE<a/></td>
     <td><a href="https://e-ticaret-sitesi-e-commerce-site.netlify.app/">Demo Link</a> </td>
