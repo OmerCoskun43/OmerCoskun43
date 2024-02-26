@@ -130,7 +130,7 @@ Ornek kullanim:
   </tr>
     <tr>
     <td><a href="https://github.com/OmerCoskun43/Cskn-Store?tab=readme-ov-file">E-COMMERCE APP<a/></td>
-    <td><a href="https://cskn-store-with-react.netlify.app/dashboard/products">Demo Link</a> </td>
+    <td><a href="https://cskn-store-with-react.netlify.app/">Demo Link</a> </td>
     <td><p>REACT TAILWIND </p></td>
     <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
           <tr>
