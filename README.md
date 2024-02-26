@@ -142,7 +142,7 @@ Ornek kullanim:
     <td><a href="https://github.com/OmerCoskun43/e-ticaret-sitesi-ecommerce-site?tab=readme-ov-file">E-COMMERCE WEBSITE<a/></td>
     <td><a href="https://e-ticaret-sitesi-e-commerce-site.netlify.app/">Demo Link</a> </td>
     <td><p>REACT REDUX BOOTSTRAP APP </p></td>
-    <td  width="50%"><img src="https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif"/></p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/e-ticaret-sitesi-ecommerce-site/assets/144324576/8ff08fa5-adf1-46ec-91f2-39f81efb1ca0"/></p></td>
   </tr>
                   <tr>
     <td><a href="https://github.com/OmerCoskun43/project-4-appoinment-app">APPOINTMENT APP FOR HOSPITALS<a/></td>
