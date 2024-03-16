@@ -88,6 +88,12 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <th>Project Preview </th>
   </tr>
   <tr>
+    <td><a href="https://github.com/OmerCoskun43/client-bookstore">STOCK APP<a/></td>
+    <td><a href="https://client-bookstore.vercel.app/">Demo Link</a> </td>
+    <td><p>React JS - TAILWIND - NODE JS - FULLSTACK APP</p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/client-bookstore/assets/144324576/b112c451-2253-49d7-821a-ccfe53f97749"/></p></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/OmerCoskun43/STOCK-APP-V2?tab=readme-ov-file">STOCK APP<a/></td>
     <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
     <td><p>React JS</p></td>
