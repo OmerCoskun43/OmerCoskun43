@@ -93,6 +93,12 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><p>MERN STACK - ReduxToolkit</p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/BlogPost-Client/assets/144324576/6b2b67fb-5405-4a07-b475-f5bf59f5fd82"/></p></td>
   </tr>
+      <tr>
+    <td><a href="https://github.com/OmerCoskun43/TodoApp-Client">TODO APP<a/></td>
+    <td><a href="https://todo-app-client-nu.vercel.app/">Demo Link</a> </td>
+    <td><p>MERN STACK - ReduxToolkit</p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/TodoApp-Server/assets/144324576/7b58cae4-cc21-432e-93bc-ede2f781baad"/></p></td>
+  </tr>
   <tr>
     <td><a href="https://github.com/OmerCoskun43/client-bookstore">BOOKSTORE APP<a/></td>
     <td><a href="https://client-bookstore.vercel.app/">Demo Link</a> </td>
