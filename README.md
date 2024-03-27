@@ -90,7 +90,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
   <tr>
     <td><a href="https://github.com/OmerCoskun43/BlogPost-Client">BLOG APP<a/></td>
     <td><a href="https://blog-post-client-one.vercel.app/">Demo Link</a> </td>
-    <td><p>React JS - TAILWIND - NODE JS - FULLSTACK APP</p></td>
+    <td><p>MERN STACK - ReduxToolkit</p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/BlogPost-Client/assets/144324576/6b2b67fb-5405-4a07-b475-f5bf59f5fd82"/></p></td>
   </tr>
   <tr>
