@@ -88,6 +88,12 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <th>Project Preview </th>
   </tr>
     <tr>
+    <td><a href="https://github.com/OmerCoskun43/Sofa-Carpet-Bed-Washing">Sofa-Carpet-Bed-Washing<a/></td>
+    <td><a href="https://sofa-carpet-washing.vercel.app/">Demo Link</a> </td>
+    <td><p>REACT - TAILWIND </p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/Sofa-Carpet-Bed-Washing/assets/144324576/0daefaa4-63fd-4b63-a488-c5da9f89e2c8"/></p></td>
+  </tr>
+    <tr>
     <td><a href="https://github.com/OmerCoskun43/RentACarApi-Client">RENT A CAR APP v1<a/></td>
     <td><a href="https://rent-a-car-api-client.vercel.app/">Demo Link</a> </td>
     <td><p>MERN STACK - NODEJS </p></td>
