@@ -90,7 +90,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
      <tr>
     <td><a href="https://github.com/OmerCoskun43/Technical-Service-App">My Portfolio Page<a/></td>
     <td><a href="https://omercoskun.vercel.app/">Demo Link</a> </td>
-    <td><p>REACT - TAILWIND </p></td>
+    <td><p>My Portfolio Page </p></td>
     <td  width="50%"><img src="https://omercoskun.vercel.app/"/></p></td>
   </tr>
    <tr>
