@@ -93,18 +93,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><p>My Portfolio Page </p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/MyPortfolioPage/assets/144324576/0a5592ec-d365-4e2a-b286-d64a1c8fc7ab"/></p></td>
   </tr>
-   <tr>
-    <td><a href="https://github.com/OmerCoskun43/Technical-Service-App">Technical Service App<a/></td>
-    <td><a href="https://technical-service-app.vercel.app/">Demo Link</a> </td>
-    <td><p>REACT - TAILWIND </p></td>
-    <td  width="50%"><img src="https://github.com/OmerCoskun43/Technical-Service-App/assets/144324576/ef584b99-c40b-4b15-beb3-21641bc5bef0"/></p></td>
-  </tr>
-    <tr>
-    <td><a href="https://github.com/OmerCoskun43/Sofa-Carpet-Bed-Washing">Sofa-Carpet-Bed-Washing<a/></td>
-    <td><a href="https://sofa-carpet-washing.vercel.app/">Demo Link</a> </td>
-    <td><p>REACT - TAILWIND </p></td>
-    <td  width="50%"><img src="https://github.com/OmerCoskun43/Sofa-Carpet-Bed-Washing/assets/144324576/0daefaa4-63fd-4b63-a488-c5da9f89e2c8"/></p></td>
-  </tr>
+  
     <tr>
     <td><a href="https://github.com/OmerCoskun43/RentACarApi-Client">RENT A CAR APP v1<a/></td>
     <td><a href="https://rent-a-car-api-client.vercel.app/">Demo Link</a> </td>
@@ -187,6 +176,18 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><a href="https://cskn-hospital.netlify.app/">Demo Link</a> </td>
     <td><p>REACT  BOOTSTRAP APP </p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/project-4-appoinment-app/assets/144324576/5c72749f-969d-46c0-ad23-e05128ccb17e"/></p></td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/OmerCoskun43/Technical-Service-App">Technical Service App<a/></td>
+    <td><a href="https://technical-service-app.vercel.app/">Demo Link</a> </td>
+    <td><p>REACT - TAILWIND </p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/Technical-Service-App/assets/144324576/ef584b99-c40b-4b15-beb3-21641bc5bef0"/></p></td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/OmerCoskun43/Sofa-Carpet-Bed-Washing">Sofa-Carpet-Bed-Washing<a/></td>
+    <td><a href="https://sofa-carpet-washing.vercel.app/">Demo Link</a> </td>
+    <td><p>REACT - TAILWIND </p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/Sofa-Carpet-Bed-Washing/assets/144324576/0daefaa4-63fd-4b63-a488-c5da9f89e2c8"/></p></td>
   </tr>
 
   
