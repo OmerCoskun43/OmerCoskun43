@@ -93,19 +93,15 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><p>My Portfolio Page </p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/MyPortfolioPage/assets/144324576/0a5592ec-d365-4e2a-b286-d64a1c8fc7ab"/></p></td>
   </tr>
-  
-    <tr>
-    <td><a href="https://github.com/OmerCoskun43/RentACarApi-Client">RENT A CAR APP v1<a/></td>
-    <td><a href="https://rent-a-car-api-client.vercel.app/">Demo Link</a> </td>
-    <td><p>MERN STACK - NODEJS </p></td>
-    <td  width="50%"><img src="https://github.com/OmerCoskun43/RentACarApi-Client/assets/144324576/dd6e632a-e4e3-4a36-85b3-39d183bc535d"/></p></td>
-  </tr>
-    <tr>
-    <td><a href="https://github.com/OmerCoskun43/HotelApi-Client">HOTEL BOOKING APP<a/></td>
-    <td><a href="https://hotel-api-client.vercel.app/">Demo Link</a> </td>
-    <td><p>MERN STACK - NODEJS </p></td>
-    <td  width="50%"><img src="https://github.com/OmerCoskun43/HotelApi-Client/assets/144324576/5ddc11a0-96c7-423d-a2ea-4dfcbad4779d"/></p></td>
-  </tr>
+
+  <tr>
+    <td><a href="https://github.com/OmerCoskun43/HotelApi-Client">HOTEL BOOKING APP</a></td>
+    <td><a href="https://hotel-api-client.vercel.app/">Demo Link</a></td>
+    <td><p>MERN STACK - NODEJS</p></td>
+    <td><img src="https://github.com/OmerCoskun43/HotelApi-Client/assets/144324576/5ddc11a0-96c7-423d-a2ea-4dfcbad4779d" width="100"/></td>
+</tr>
+
+    
   <tr>
     <td><a href="https://github.com/OmerCoskun43/BlogPost-Client">BLOG APP<a/></td>
     <td><a href="https://blog-post-client-one.vercel.app/">Demo Link</a> </td>
