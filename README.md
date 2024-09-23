@@ -98,7 +98,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><a href="https://github.com/OmerCoskun43/HotelApi-Client">HOTEL BOOKING APP</a></td>
     <td><a href="https://hotel-api-client.vercel.app/">Demo Link</a></td>
     <td><p>MERN STACK - NODEJS</p></td>
-    <td><img src="https://github.com/OmerCoskun43/HotelApi-Client/assets/144324576/5ddc11a0-96c7-423d-a2ea-4dfcbad4779d" width="100"/></td>
+    <td width="50%"><img src="https://github.com/OmerCoskun43/HotelApi-Client/assets/144324576/5ddc11a0-96c7-423d-a2ea-4dfcbad4779d" width="100"/></td>
 </tr>
 
     
