@@ -93,6 +93,12 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><p>My Portfolio Page </p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/MyPortfolioPage/assets/144324576/0a5592ec-d365-4e2a-b286-d64a1c8fc7ab"/></p></td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/OmerCoskun43/STOCK-APP-V2?tab=readme-ov-file">STOCK APP<a/></td>
+    <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
+    <td><p>React JS</p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/STOCK-APP-V2/assets/144324576/09873f91-7ff5-46bb-b768-27e146a5b636"/></p></td>
+  </tr>
 
   <tr>
     <td><a href="https://github.com/OmerCoskun43/HotelApi-Client">HOTEL BOOKING APP</a></td>
