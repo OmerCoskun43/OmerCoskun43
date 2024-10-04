@@ -99,7 +99,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><a href="https://github.com/OmerCoskun43/CRM-Client">CRM APP<a/></td>
     <td><a href="https://crm-client-bay.vercel.app/">Demo Link</a> </td>
     <td><p>React JS</p></td>
-    <td  width="50%"><img src="https://github.com/user-attachments/assets/36a56774-5ebb-470f-ab23-92422aab1cd0)![CPT2410041204-1333x648](https://github.com/user-attachments/assets/6602bd4a-8e1a-4fa9-8bbb-f53a250ce969"/></p></td>
+    <td  width="50%"><img src="https://github.com/user-attachments/assets/36a56774-5ebb-470f-ab23-92422aab1cd0"/></p></td>
   </tr>
   
 
