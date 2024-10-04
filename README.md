@@ -93,12 +93,15 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><p>My Portfolio Page </p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/MyPortfolioPage/assets/144324576/0a5592ec-d365-4e2a-b286-d64a1c8fc7ab"/></p></td>
   </tr>
+
+  
    <tr>
-    <td><a href="https://github.com/OmerCoskun43/STOCK-APP-V2?tab=readme-ov-file">STOCK APP<a/></td>
-    <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
+    <td><a href="https://github.com/OmerCoskun43/CRM-Client">CRM APP<a/></td>
+    <td><a href="https://crm-client-bay.vercel.app/">Demo Link</a> </td>
     <td><p>React JS</p></td>
-    <td  width="50%"><img src="https://github.com/OmerCoskun43/STOCK-APP-V2/assets/144324576/09873f91-7ff5-46bb-b768-27e146a5b636"/></p></td>
+    <td  width="50%"><img src="https://github.com/user-attachments/assets/36a56774-5ebb-470f-ab23-92422aab1cd0)![CPT2410041204-1333x648](https://github.com/user-attachments/assets/6602bd4a-8e1a-4fa9-8bbb-f53a250ce969"/></p></td>
   </tr>
+  
 
   <tr>
     <td><a href="https://github.com/OmerCoskun43/HotelApi-Client">HOTEL BOOKING APP</a></td>
@@ -145,6 +148,15 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><p>TypeScript Tailwind</p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/cskn-store-typescript-tailwind/assets/144324576/405e966c-008b-4acf-a37e-e8d75dac6fa8"/></p></td>
   </tr>
+
+   <tr>
+    <td><a href="https://github.com/OmerCoskun43/STOCK-APP-V2?tab=readme-ov-file">STOCK APP<a/></td>
+    <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
+    <td><p>React JS</p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/STOCK-APP-V2/assets/144324576/09873f91-7ff5-46bb-b768-27e146a5b636"/></p></td>
+  </tr>
+
+      
  <tr>
     <td><a href="https://github.com/OmerCoskun43/BlogApp-Redux-Mui-React">BLOG APP<a/></td>
     <td><a href="https://blogapp-redux-mui-react.netlify.app/">Demo Link</a> </td>
