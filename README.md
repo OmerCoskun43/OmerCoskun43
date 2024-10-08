@@ -144,12 +144,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td  width="50%"><img src="https://github.com/OmerCoskun43/cskn-store-typescript-tailwind/assets/144324576/405e966c-008b-4acf-a37e-e8d75dac6fa8"/></p></td>
   </tr>
 
-   <tr>
-    <td><a href="https://github.com/OmerCoskun43/STOCK-APP-V2?tab=readme-ov-file">STOCK APP<a/></td>
-    <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
-    <td><p>React JS</p></td>
-    <td  width="50%"><img src="https://github.com/OmerCoskun43/STOCK-APP-V2/assets/144324576/09873f91-7ff5-46bb-b768-27e146a5b636"/></p></td>
-  </tr>
+   
 
       
  <tr>
