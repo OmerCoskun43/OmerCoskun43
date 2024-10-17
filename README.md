@@ -96,7 +96,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
   <tr>
     <td><a href="https://github.com/OmerCoskun43/personal-finance-electron-app" target="_blank">Personal Finance App<a/></td>
     <td><a href="https://github-production-user-asset-6210df.s3.amazonaws.com/144324576/377401908-4351b4c6-c655-4dd7-a032-11b3e7a16da9.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241017T092634Z&X-Amz-Expires=300&X-Amz-Signature=4f0aab4259ac499c549ee1c18f8769ae1e01fe69ee1fd38aa51cfb188c0c388d&X-Amz-SignedHeaders=host">Demo Link</a> </td>
-    <td><p>My Portfolio Page </p></td>
+    <td><p>Electron.js</p></td>
     <td  width="50%"><img src="https://github.com/user-attachments/assets/4351b4c6-c655-4dd7-a032-11b3e7a16da9"/></p></td>
   </tr>
   
