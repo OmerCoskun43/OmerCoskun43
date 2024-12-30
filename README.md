@@ -174,7 +174,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
   <tr>
     <td><a href="https://github.com/OmerCoskun43/movie-app-with-firebase">MOVIE APP<a/></td>
     <td><a href="https://movie-app-with-firebase.netlify.app/">Demo Link</a> </td>
-    <td><p>REACT TAILWIND FIREBASE</p></td>
+    <td><p>REACT NEXT.JS TAILWIND FIREBASE</p></td>
     <td  width="50%"><img src="https://github.com/OmerCoskun43/movie-app-with-firebase/assets/144324576/fc0876d5-7ccd-48b2-910b-2f08edffd1d0"/></p></td>
   </tr>
     <tr>
